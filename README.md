@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Mauricio Santiago 👋
 
-<!--
-**Maurisantiagol/Maurisantiagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Inteligencia Artificial** en la **ESCOM, IPN**.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Asistente conversacional para restaurantes** — Chatbot end-to-end con NLP y Flask para un restaurante italiano: clasificador de intenciones (SVM / TF-IDF), recomendación por similitud coseno y más de 200 iteraciones de estrés.
+- **[portafolio_ML](https://github.com/Maurisantiagol/portafolio_ML)** — Proyectos de aprendizaje supervisado con Scikit-Learn: clasificación de ingresos y regresión de costos médicos.
+- **Sentinels** — Analizador de código Python con IA; participo en el subequipo Núcleo.
+
+## Skills
+
+Python · Machine Learning · SQL · Azure · Flask · Scikit-Learn
+
+## Sobre mí
+
+Busco **prácticas remotas** en ciencia de datos y machine learning.
